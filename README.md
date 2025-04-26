@@ -25,7 +25,3 @@ This project aims to develop an **ARIMA model** for time series forecasting usin
 - `scipy`
 - `pmdarima`
 
-You can install the required dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
